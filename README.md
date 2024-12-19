@@ -1,6 +1,6 @@
 # ROCK-PAPER-SCISSORS
 
-**Version:** [VERSION_NUMBER]
+**Version:** 1.9.0
 
 This repository contains Rock, Paper, Scissors web game with functional UI. Animations and game complexity to be added in the future.
 
@@ -11,10 +11,17 @@ Always review and understand the code before executing it.
 
 **Version History:**
 
-* **[VERSION_NUMBER]:** [List of changes made in this version]
-* **[PREVIOUS_VERSION_NUMBER]:** [List of changes made in the previous version] 
+* **1.9.0:** Finished the base logic in js.
+* **1.8.4:** Added game loop with round logic.
 * ...
 
+**Project TO-DO:**
+
+1. UI animations
+2. secondary game logic to mutate a unique mechanics
+3. ...
+
+   
 **Contributing:**
 
 1. Fork the repository
@@ -26,4 +33,4 @@ Always review and understand the code before executing it.
 
 **License:**
 
-This project is licensed under the [LICENSE_NAME] License - see the [LICENSE] file for details.
+This project is licensed under the NONE License - see the LICENSE file for details.
