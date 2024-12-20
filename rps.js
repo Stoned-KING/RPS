@@ -12,9 +12,10 @@ function aiChoice(random) {
     }
 }
 
+
 // get the user choice //
-// need to be case insensitive //
-// if its not one of the three throw invalid //
+// need to be case insensitive //   
+// if its not one of the three throw invalid //  
 function humChoice() {
     let out;
     out = prompt("Choose Rock, Paper or Scissors").toUpperCase();
